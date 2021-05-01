@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
+canvas {
+position: absolute;
+top: 400px;
+left: 600px;
+}
+
+body {
+background-image: url('https://scontent.fmex11-4.fna.fbcdn.net/v/t1.6435-9/180333221_2571566676323000_1175564080705559594_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEcpqhaj4XSMnZlZjizQLA56jIGxao43OzqMgbFqjjc7At3fJze1Hi8xbqWyxbWIY8_LJdUZN1nxib1a25b1PcZ&_nc_ohc=7cS1WP2UVeoAX9F1KEP&_nc_ht=scontent.fmex11-4.fna&oh=67b777a4de7ac830a95c43d7851c9038&oe=60B0BABD');
+background-position: center top;
+background-size: ;
+margin: 0;
+}
